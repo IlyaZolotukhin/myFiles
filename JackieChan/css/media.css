@@ -1,0 +1,51 @@
+@media all and (max-width: 800px) {
+    html {
+        font-size: 0.9em;
+        margin: 0px;
+    }
+
+    body {
+        margin: 0px;
+        padding-right: 0px;
+        background-image: none;
+        background-color: #6F180F;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+    }
+
+    h1 {
+        margin: 0px;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    ul {
+        padding: 0px;
+    }
+
+    .wrapper {
+        background: url("../img/JackieChanMob.jpg") no-repeat;
+        background-size: cover;
+    }
+
+    .info .contacts ul li {
+        border: 3px solid red;
+        display: block;
+        margin-bottom: 15px;
+        width: max-content;
+    }
+
+    .info .address ul li {
+        border: 3px solid red;
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .container {
+        color: #DCA477;
+    }
+
+
+}

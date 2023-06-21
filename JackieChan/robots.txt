@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: 654.rf.gd
+Sitemap: http://654.rf.gd/sitemap.xml
