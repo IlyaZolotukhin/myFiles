@@ -1,0 +1,174 @@
+html {
+    margin: 0px;
+    font-size: 2em;
+}
+
+body {
+    margin: 0px;
+    background: url("../img/plumber.jpg") no-repeat;
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: #2d2c31;
+    padding: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #8b190f;
+}
+
+.footer ul li a:hover {
+    font-weight: bold;
+}
+
+.footer .address ul li {
+    width: max-content;
+    list-style-type: none;
+    margin-bottom: 7px;
+    border: 3px solid #8b190f;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.footer .contacts ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 15px;
+    border: 3px solid #8b190f;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+
+/*.navbar-brand {
+    width: 200px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+section {
+    padding: 50px 0;
+}
+
+a {
+    color: #17333f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555;
+}
+
+.phone {
+    font-size: 36px;
+}
+
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #17333f;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.navbar-nav .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+
+.top-menu li a::after {
+    content: '';
+    display: block;
+    width: 100%;
+    background-color: #17333f;
+    height: 1px;
+    transition: all .3s;
+    transform: scale(0);
+}
+
+.top-menu li a:hover::after {
+    transform: scale(1);
+}
+
+
+
+
+.container {
+    max-width: 100%;
+    margin: 0px;
+    padding: 40px;
+    color: #17333f;
+    background-color:darkgray;
+    background: url(../img/%D1%84%D0%BE%D0%BD.jpg)no-repeat;
+    background-size: 100%;
+}
+
+.col{
+    font-size: 20px;
+    text-align: justify;
+    margin: 110px 40px 250px 400px;
+}
+
+
+
+
+
+.question {
+    font-style: italic;
+}
+
+.answer {
+    font-weight: bold;
+}
+
+a {
+    color: #17333f;
+}
+
+.messengers {
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.messengers ul,
+.messengers ol {
+    list-style: none;
+}
+
+.messengers > ul {
+    display: flex;
+}
+
+.messengers > ul li a {
+    display: block;
+    margin: 0px;
+    padding: 0px 40px 15px 10px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+.my-carousel {
+    padding: 0;
+}
+
+.my-carousel .carousel-item {
+    margin-left:0px;
+    max-height: 600px;
+    max-width: 500px;
+}*/
+
+
+
